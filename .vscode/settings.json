@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "mlx_int.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "mlx.h": "c",
+        "solong.h": "c",
+        "*.tcc": "c"
+    }
+}
